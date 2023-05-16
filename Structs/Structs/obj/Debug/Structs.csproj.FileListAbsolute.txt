@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\obj\Debug\Structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Structs\Structs\obj\Debug\Structs.pdb

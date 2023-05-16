@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\bin\Debug\NetInteraction.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\bin\Debug\NetInteraction.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\bin\Debug\NetInteraction.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\obj\Debug\NetInteraction.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\obj\Debug\NetInteraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\obj\Debug\NetInteraction.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\obj\Debug\NetInteraction.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\obj\Debug\NetInteraction.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\NetInteraction\NetInteraction\obj\Debug\NetInteraction.csproj.CopyComplete

@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ContatoModel>
+@{
+    ViewData["Title"] = "Contatos";
+}
+
+<div class="text-center">
+
+    <div class="text-start">
+        <a class="btn btn-dark" role="button" asp-controller="Contato" asp-action="Criar"><span>Cadastrar novos Contatos</span></a>
+    </div>
+    <br />
+
+    
+    @if (TempData["MensagemSucesso"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["MensagemSucesso"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>    
+            }
+    
+    @if (TempData["MessagemErro"] != null)
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            @TempData["MessagemErro"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+</div>
+
+    <table class="table table-hover" id="table-contatos">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Nome</th>
+                <th scope="col">E-mail</th>
+                <th scope="col">Celular</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                @foreach (var contato in Model)
+                {
+                    <tr>
+                        <th scope="row">@contato.Id</th>
+                        <td>@contato.Name</td>
+                        <td>@contato.Email</td>
+                        <td>@contato.Celular</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a role="button" class="btn btn-outline-dark" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="Editar">Editar </a>
+                            <a role="button" class="btn btn-outline-dark" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="Apagar">Apagar </a>
+                        </div>
+                    </td>
+                    </tr>
+                }
+            }
+
+        </tbody>
+</table>
+
+  

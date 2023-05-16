@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\obj\Debug\csharp-inicio.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\obj\Debug\csharp-inicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\obj\Debug\csharp-inicio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\bin\Debug\csharp-inicio.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\bin\Debug\csharp-inicio.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\bin\Debug\csharp-inicio.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\obj\Debug\csharp-inicio.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\csharp-inicio\csharp-inicio\obj\Debug\csharp-inicio.pdb

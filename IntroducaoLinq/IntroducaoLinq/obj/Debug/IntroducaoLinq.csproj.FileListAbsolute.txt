@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\IntroducaoLinq.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\IntroducaoLinq.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\IntroducaoLinq.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\obj\Debug\IntroducaoLinq.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\obj\Debug\IntroducaoLinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\obj\Debug\IntroducaoLinq.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\obj\Debug\IntroducaoLinq.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\obj\Debug\IntroducaoLinq.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\lojaDominio.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\lojaDominio.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\obj\Debug\IntroducaoLinq.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\IntroducaoLinq\bin\Debug\Newtonsoft.Json.xml

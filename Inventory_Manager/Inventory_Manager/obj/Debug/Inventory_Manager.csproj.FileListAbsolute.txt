@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\bin\Debug\Inventory_Manager.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\bin\Debug\Inventory_Manager.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\bin\Debug\Inventory_Manager.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\obj\Debug\Inventory_Manager.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\obj\Debug\Inventory_Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\obj\Debug\Inventory_Manager.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\obj\Debug\Inventory_Manager.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\Inventory_Manager\Inventory_Manager\obj\Debug\Inventory_Manager.pdb

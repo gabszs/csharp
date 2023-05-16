@@ -1,0 +1,50 @@
+﻿@model ASPNETMVCCRUD.Models.AddEmloyeeViewModel
+
+
+@if (TempData["MensagemSucesso"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show mb-2" role="alert">
+        @TempData["MensagemSucesso"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (TempData["MessagemErro"] != null)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        @TempData["MessagemErro"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
+
+<form method="post" action="Add" class="mt-2 ">
+    <div class="mb-3">
+        <label for="" class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="Name">
+    </div>
+
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email address</label>
+        <input type="email" class="form-control" asp-for="Email">
+        <div id="emailHelp" class="form-text">Seu email nao vai ser compartilhado</div>
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Salary</label>
+        <input type="number" class="form-control" asp-for="Salary">
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Date Of Birth</label>
+        <input type="date" class="form-control" asp-for="DateOfBirth">
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Department</label>
+        <input type="text" class="form-control" asp-for="Department">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

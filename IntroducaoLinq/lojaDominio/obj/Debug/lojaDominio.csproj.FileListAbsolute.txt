@@ -1,0 +1,6 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\lojaDominio\bin\Debug\lojaDominio.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\lojaDominio\bin\Debug\lojaDominio.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\lojaDominio\obj\Debug\lojaDominio.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\lojaDominio\obj\Debug\lojaDominio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\lojaDominio\obj\Debug\lojaDominio.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\IntroducaoLinq\lojaDominio\obj\Debug\lojaDominio.pdb

@@ -1,0 +1,4 @@
+Nome: bola champions 2023, Preco: 90, Peso: 0,5, Marca: Nike
+Nome: Tenis Sapatenis, Preco: 142, Peso: 0,9, Marca: Generico
+Nome: bola champions 2023, Preco: 100, Peso: 0,5, Marca: Nike 1 
+Nome: Tenis Sapatenis, Preco: 142, Peso: 0,9, Marca: Generico 1

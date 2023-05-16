@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\bin\Debug\OPP.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\bin\Debug\OPP.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\bin\Debug\OPP.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\obj\Debug\OPP.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\obj\Debug\OPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\obj\Debug\OPP.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\obj\Debug\OPP.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\OPP\OPP\obj\Debug\OPP.pdb

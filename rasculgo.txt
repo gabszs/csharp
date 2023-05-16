@@ -1,0 +1,72 @@
+using Azure.Core.Extensions;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MyFirstCrud.Data;
+using MyFirstCrud.Models;
+using MyFirstCrud.Models.Domain;
+
+namespace MyFirstCrud.Controllers
+{
+    public class BookController : Controller
+    {
+        private readonly MvcDbContext _DbContext;
+
+        public BookController(MvcDbContext dbContext)
+        {
+            this._DbContext = dbContext;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Index()
+        {
+            LivrosViewModel LivroModels = new LivrosViewModel() 
+            {
+                AddLivro = new AddBookViewModel(),
+                LivroList = await _DbContext.MyProperty.ToListAsync(),
+                //Livro = 
+            };
+
+            return View(LivroModels);
+        }
+
+        [HttpGet]
+        public IActionResult Edit(Guid Id)
+        {
+            //Id, Title, Autor, ReleaseDate, Description, Sinopse, QtdStored, value
+            var book = _DbContext.MyProperty.FirstOrDefault(x => x.Id == Id);
+            return PartialView("", book);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(BooksStored newBook) 
+        {
+            _DbContext.MyProperty.Update(newBook);
+            _DbContext.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        
+
+        [HttpPost]
+        public async Task<IActionResult> Add(UpdateBookViewModel model)
+        {
+            BooksStored book = new BooksStored() 
+            {
+                Id = model.Id,
+                Autor = model.Autor,
+                Title = model.Title,
+                ReleaseDate = model.ReleaseDate,
+                Description = model.Description,
+                Sinopse = model.Sinopse,
+                QtdStored = model.QtdStored,
+                value = model.value,
+            };
+
+            await _DbContext.MyProperty.AddAsync(book);
+            await _DbContext.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+        }
+    }
+
+    
+}
